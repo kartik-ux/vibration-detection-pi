@@ -1,3 +1,4 @@
+
 # Vibration Detection Pi — Edge AI Predictive Maintenance
 
 [![CI](https://github.com/YOUR-USERNAME/vibration-detection-pi/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/vibration-detection-pi/actions/workflows/ci.yml)
@@ -144,11 +145,6 @@ For a credible industrial evaluation, collect data across multiple machines, spe
 ```bash
 pytest -q
 ```
-
-## License
-
-MIT — add a `LICENSE` file if you intend to publish this repository under the MIT license.
-
 
 ## Engineering quality and limitations
 
