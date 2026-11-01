@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project in your research or engineering work, please cite the repository."
+title: "Vibration Detection Pi: Edge AI Predictive Maintenance"
+type: software
+abstract: >-
+  An open-source prototype for local vibration monitoring on Raspberry Pi,
+  combining signal feature extraction, supervised fault-pattern classification,
+  anomaly detection and inference benchmarking.
+license: MIT
